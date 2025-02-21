@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\CubeCrash\\CubeCrash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|D:\\UnityProject\\CubeCrash\\CubeCrash\\assets\\cubegame\\scripts\\gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|D:\\UnityProject\\CubeCrash\\CubeCrash\\assets\\cubegame\\scripts\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\deactiveall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\deactiveall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\lv\\lvcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\lv\\lvcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\bulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\bulletmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\ui\\uistart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\ui\\uistart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|D:\\UnityProject\\CubeCrash\\CubeCrash\\assets\\cubegame\\scripts\\ui\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\ui\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|D:\\UnityProject\\CubeCrash\\CubeCrash\\assets\\cubegame\\scripts\\ui\\uimain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\ui\\uimain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\lv\\mapcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\lv\\mapcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|D:\\UnityProject\\CubeCrash\\CubeCrash\\assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\ad\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|d:\\unityproject\\cubecrash\\cubecrash\\assets\\cubegame\\scripts\\ui\\eventtriggerlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772DC0A4-7D4C-2E07-22D0-B56FEE264394}|Assembly-CSharp.csproj|solutionrelative:assets\\cubegame\\scripts\\ui\\eventtriggerlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\Ad\\Ad.cs",
+              "RelativeDocumentMoniker": "Assets\\Ad\\Ad.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\Ad\\Ad.cs",
+              "RelativeToolTip": "Assets\\Ad\\Ad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:26:10.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camerafollow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\camerafollow.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\camerafollow.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\camerafollow.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\camerafollow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:41:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bulletMove.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\bulletMove.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\bulletMove.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\bulletMove.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\bulletMove.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvywAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:35:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TMP_Bitmap.shader",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-21T03:31:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TMP_Bitmap-Custom-Atlas.shader",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-21T03:31:55.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TMPro.cginc",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-21T03:31:53.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LvCreate.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\lv\\LvCreate.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\lv\\LvCreate.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\lv\\LvCreate.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\lv\\LvCreate.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:31:46.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "deActiveAll.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\deActiveAll.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\deActiveAll.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\deActiveAll.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\deActiveAll.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:31:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventTriggerListener.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\EventTriggerListener.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\UI\\EventTriggerListener.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\EventTriggerListener.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\UI\\EventTriggerListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:54:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mapCreator.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\lv\\mapCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\lv\\mapCreator.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\lv\\mapCreator.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\lv\\mapCreator.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwOgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:50:59.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "save.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\save.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\save.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\save.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\save.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:44:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIstart.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\UIstart.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\UI\\UIstart.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\UIstart.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\UI\\UIstart.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAewLgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:20:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "shop.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\shop.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\UI\\shop.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\shop.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\UI\\shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:19:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManger.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\GameManger.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\GameManger.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\GameManger.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\GameManger.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:53:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UImain.cs",
+              "DocumentMoniker": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\UImain.cs",
+              "RelativeDocumentMoniker": "Assets\\cubeGame\\Scripts\\UI\\UImain.cs",
+              "ToolTip": "D:\\UnityProject\\CubeCrash\\CubeCrash\\Assets\\cubeGame\\Scripts\\UI\\UImain.cs",
+              "RelativeToolTip": "Assets\\cubeGame\\Scripts\\UI\\UImain.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:23:51.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
